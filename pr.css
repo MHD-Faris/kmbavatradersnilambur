@@ -1,0 +1,134 @@
+#nav-bar{
+    color: #fff;
+    padding-left: 6px;
+    font-weight:bolder;
+    font-size: 2em;
+ }
+ #nav-bar1{
+     color: #fff;
+     font-size: 20px;
+     font-family: Arial Unicode MS;
+     
+  }
+  #nav-bar2{
+     color: #fff;
+     font-size: 20px;
+     font-family: Arial Unicode MS;
+      
+  }
+  #nav-bar3{
+     color: #fff;
+     font-size: 20px;
+     font-family: Arial Unicode MS;
+     
+  }
+  #s1{
+     background-color:  #d1d1cf;
+  }
+ #main-heading{
+     font-size: 2em;
+     text-align: center;
+     padding: 1em;
+     font-weight: bolder;
+ }
+ #p1{
+     text-align: center;
+     margin-top: -2em;
+    
+ }
+ #p2{
+    
+     text-align: center;
+     margin-left: 20em;
+     font-size: x-small;
+     margin-top: -2em;
+ }
+ #img{
+     padding: 30px;
+     margin-left: 2em;
+ }
+ #stocks{
+     text-align: center;
+     font-family: Elephant;
+     
+ }
+ #s3{
+     background-color:  #d1d1cf;
+     padding-bottom: 3em;
+ }
+  #visit-us{
+     text-align: center;
+     font-family: Copperplate Gothic Bold;
+     font-weight: bolder;
+ }
+ #btn-go{
+     border: 1px solid black;
+     background-color: #0ca90c;
+     width: 5em;
+     height: 2em;
+ }
+ #btn-go:hover{
+     background-color: #16e716;
+ }
+ #f1{
+     color: #fff;
+     border: 3px solid blue;
+     padding-bottom: 50px;
+ }
+ #suggestion{
+     
+  width: 25em;
+  height: 10em;
+  background-color: #fff;
+ }
+ #facebook{
+     text-decoration: none;
+ }
+ #Suggestion{
+     width: 25em;
+     height: 10em;
+     background-color: #fff;
+     text-align: right end ; 
+ }
+ #s2{
+     font-family: Berlin Sans FB;
+ }
+ #submit-btn{
+     border: 0px;
+     width: 25em;
+     background-color: #0d6efd;
+     color: #fff;
+ }
+ #submit-btn:hover{
+     background-color: #418bf7;
+ }
+ #shop-details{
+     font-family: Franklin Gothic Book;
+ }
+ #details{
+     font-size: 21px;
+     font-weight: 400;
+ }
+ #details2{
+     font-size: 21px;
+     font-weight: 400;
+ }
+ #contact-us{
+     font-family: Berlin Sans FB;
+     font-weight: 200;
+ }
+ #suggestion-heading{
+     font-family: Berlin Sans FB;
+     font-weight: 200;
+ }
+ #h1{
+     position: fixed;
+     width: 100%;
+     z-index: 1;
+ }
+ #s1{
+     padding-top: 5em;
+ }
+ #text-field{
+     padding-left: 5em;
+ }
