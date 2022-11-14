@@ -7,18 +7,21 @@
  #nav-bar1{
      color: #fff;
      font-size: 20px;
+     margin-left: 6px;
      font-family: Arial Unicode MS;
      
   }
   #nav-bar2{
      color: #fff;
      font-size: 20px;
+      margin-left: 6px;
      font-family: Arial Unicode MS;
       
   }
   #nav-bar3{
      color: #fff;
      font-size: 20px;
+     margin-left: 6px;
      font-family: Arial Unicode MS;
      
   }
@@ -42,10 +45,6 @@
      margin-left: 20em;
      font-size: x-small;
      margin-top: -2em;
- }
- #img{
-     padding: 30px;
-     margin-left: 2em;
  }
  #stocks{
      text-align: center;
@@ -85,7 +84,7 @@
      text-decoration: none;
  }
  #Suggestion{
-     width: 25em;
+     width: 80%;
      height: 10em;
      background-color: #fff;
      text-align: right end ; 
@@ -94,8 +93,8 @@
      font-family: Berlin Sans FB;
  }
  #submit-btn{
-     border: 0px;
-     width: 25em;
+   border: 0px;
+     width: 80%;
      background-color: #0d6efd;
      color: #fff;
  }
@@ -131,4 +130,14 @@
  }
  #text-field{
      padding-left: 5em;
+ }
+header{
+    color: #fff;
+ }
+ #nav-bar4{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 6px;
+    font-family: Arial Unicode MS;
+     
  }
