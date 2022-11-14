@@ -2,7 +2,7 @@
     color: #fff;
     padding-left: 6px;
     font-weight:bolder;
-    font-size: 198%;
+    font-size: 2em;
  }
  #nav-bar1{
      color: #fff;
@@ -73,12 +73,6 @@
      color: #fff;
      border: 3px solid blue;
      padding-bottom: 50px;
- }
- #suggestion{
-     
-  width: 25em;
-  height: 10em;
-  background-color: #fff;
  }
  #facebook{
      text-decoration: none;
